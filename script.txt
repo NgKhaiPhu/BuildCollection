@@ -111,7 +111,7 @@ Build bị nerf nặng nhất trên Graves, do <em>Nguyệt đao</em> mất Hút
 
 <h3>Negan</h3>
 Tên bắt nguồn từ nhân vật Negan Smith trong The Walking Dead, do streamer LS (?) đặt cho build này. Khi mới xuất hiện, build này tập trung xoay quanh các item hút máu. Ở thời điểm hiện tại (mùa 13), <em>Rìu đen</em> theo mình là item quá quan trọng cho Graves. Có thể delay <em>Rìu đen</em> xuống món 2-3, hoặc lên sau <em>Bó tên ánh sáng</em>.<br>
-Crit dmg của Graves được buff ở bản 13.7, cho phép Graves có thể lại mua <em>Vô cực kiếm</em>. Tuy nhiên, bạn cần có thêm các món crit để tối đa hoá nội tại tăng 35% crit dmg. <em>Navori</em> là item rất thú vị, đáng cân nhắc vì cả 3 chiêu cơ bản đều rất quan trọng với Graves. 
+Crit dmg của Graves được buff ở bản 13.7, cho phép Graves có thể lại mua <em>Vô cực kiếm</em>. Tuy nhiên, bạn cần có thêm các món crit để tối đa hoá nội tại tăng 35% crit dmg.<br><em>Navori</em> là item rất thú vị, đáng cân nhắc vì cả 3 chiêu cơ bản đều rất quan trọng với Graves. 
 
 <h3>Chuỳ hấp huyết</h3>
 Streamer Tarzaned (NA) là người đầu tiên lên build này theo trí nhớ của mình. Điểm mạnh nhất của build là, khi kết hợp với <em>Rìu đen</em>, cho Graves 700 máu, 8% hút máu toàn phần, nội tại kích hoạt hồi máu và rất nhiều hồi chiêu. Dùng build này khi đối phương có nhiều sát thủ, hoặc khi trong team đã có tướng carry để bạn có thể hy sinh dmg và lên build này.
@@ -273,7 +273,8 @@ Vayne đã có đủ DPS với W, nên lấy nhánh Kiên định để sống s
 
 Mặc định lên <em>Guinsoo</em>, chậm nhất là món 3, đừng nghe ai nói khác.<br>
 <em>Ma vũ song kiếm</em> và <em>Đao tím</em> là 2 món đồ huyền thoại mạnh nhất trên Vayne xét về DPS.<br>
-<em>Gươm Suy vong</em> ít dmg hơn cả 2 món trên, và không cung cấp gì khác ngoài dmg (ta không cần đến hút máu do đã có <em>Nỏ tử thủ</em> và <em>Huyết kiếm</em>). Không bao giờ lên món này.
+<em>Gươm Suy vong</em> ít dmg hơn cả 2 món trên với các mục tiêu < 3200 HP, và không cung cấp gì khác ngoài dmg (ta không cần đến hút máu do đã có <em>Nỏ tử thủ</em> và <em>Huyết kiếm</em>). Không bao giờ lên món này.<br>
+PS: Từ sau bản 13.7, Vayne max Q rồi tới W.
 
 TheVoices (Yasuo và Yone)
 Nhà tài trợ chính cho build này là Dzukill (EUW), một trong những 2-trick anh em gió hay nhất thế giới.<br>
