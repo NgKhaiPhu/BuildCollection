@@ -139,7 +139,7 @@ Các build hiện tại của Kai'Sa lên nhiều AD để tập trung burst cá
 
 Kalista
 
-Một trong số những con tướng muốn chết nhất game. <em>Vị máu + Thu thập nhãn cầu</em> hoặc <em>Kiểm soát điều kiện + Lan tràn</em> là phù hợp nhất vối lối chơi này. Lấy <em>Huyền thoại: Kháng hiệu ứng</em> khi hỗ trợ đối phương là Leona, Nautilus, Morgana,...
+Một trong số những con tướng muốn chết nhất game. <em>Vị máu + Thu thập nhãn cầu</em> hoặc <em>Kiểm soát điều kiện + Lan tràn</em> là phù hợp nhất với lối chơi này. Lấy <em>Huyền thoại: Kháng hiệu ứng</em> khi hỗ trợ đối phương là Leona, Nautilus, Morgana,...
 
 <em>Gươm Suy Vong: </em>Mình đọc đi đọc lại món đồ này mà vẫn không hiểu tại sao không ai lên món này cho Kalista. Gươm Suy Vong và Kalista thật sự là một cặp trời sinh: cần snowball, gây sát thương lớn khi bắt đầu combat (%HP hiện tại) sau đó kết liễu bằng rút giáo, tăng tốc độ chạy, hút máu,... Món đồ rush mạnh nhất cho Kalista.<br>
 <em>Guinsoo: </em>Đôi lúc trong các game của mình, có người không lên Guinsoo. Đây là item nhiều dmg nhất trên Kalista, không có ngoại lệ nào.
@@ -217,7 +217,7 @@ Một trong những tướng tiệm cận với tier S nhưng đang bị hãm l�
 
 Nilah là tướng rất phụ thuộc vào chỉ số crit, vì vậy có thể lấy <em>Thợ săn tiền thưởng</em> để giúp Nilah stack 100% crit càng nhanh càng tốt.
 
-Một nhánh phụ khác có thể lấy là Kiên định, với <em>Kiểm soát điều kiện</em> và <em>TIếp sức</em>
+Một nhánh phụ khác có thể lấy là Kiên định, với <em>Kiểm soát điều kiện</em> và <em>Tiếp sức</em>
 
 <em>Cung phong linh: </em>Trang bị thần thoại phù hợp nhất, giúp Nilah dễ tiếp cận AD đối phương.<br>
 <em>Đoản đao Navori: </em>Item tier S+ dành cho Nilah, Nilah rất cần sử dụng skill trong combat.<br>
