@@ -208,7 +208,9 @@ Tiền thân của build AP. Build này khai thác 2 yếu tố chính:<br>
 
 <h3>AP</h3>
 Bản 12.21 buff AP scale của chiêu E. Từ bản này, mình không còn dùng build Liandry ở trên nữa.<br>
-Như các bạn thấy, không có <em>Ngọn lửa hắc hoả, Trượng Hư vô</em> hay <em>Mũ phù thuỷ</em> trong hình. Lý do là vì mặc dù được buff, scale theo AP của chiêu E vẫn rất tệ. Các món đồ trong build này tập trung nhiều hơn vào hồi chiêu và hiệu ứng.<br>
+Bản 12.21 buff AP scale của chiêu E. Từ bản này, mình không còn dùng build Liandry ở trên nữa.<br>
+<em>Động cơ vũ trụ</em> nếu cần thêm slow, và <em>Trượng Hư vô</em> nếu cần dmg.<br>
+<em>Mũ trụ nguyền rủa: </em> chỉ mua khi đối phương có rất nhiều HP (Sion, Cho'gath, Zac,...).<br>
 <b>Lưu ý: </b>tác dụng chính của build AP là đa dạng hoá nguồn dmg, chỉ sử dụng khi team không có AP/khi đi hỗ trợ.
 
 Nilah
@@ -255,7 +257,8 @@ AOE và làm chậm xung quanh, thích hợp cho các game thiếu AP hoặc có
 Nên mua <em>Phong ấn hắc ám</em> để có cơ hội nâng cấp thành <em>Mejai</em>. <em>Mejai</em> không chỉ có AP mà còn cho 100 HP và 10% MS cộng thêm, tất cả chỉ với 1600g.<br>
 <em>Mũ trụ nguyền rủa: </em>Core item trong các build lên đồ thần thoại tank. Hãy nhớ, đối với Udyr, AP không chỉ là dmg mà còn là chống chịu thông qua lớp khiên W, và chúng ta luôn max W 2nd. Lượng dmg từ item này giúp Udyr clear rừng và solo rồng, sứ giả nhanh hơn nhiều. Đặc biệt, từ sau khi được rework, Udyr có thể kích hoạt nâng cấp R (skill nhiều dmg nhất) từ khoảng cách rất xa.<br>
 <em>Jak'sho: </em>Có lẽ là món thần thoại phù hợp nhất dành cho Udyr. Không giống như các tướng khác, cách engage của Udyr đơn giản là chạy bộ vào, nên rất dễ bị đối phương poke và kích hoạt <em>Jak'sho</em>.
-
+<br>Ở phiên bản 13.7, <em>Động cơ vũ trụ</em> vừa được buff. Đây là một món đồ khá phù hợp cho Udyr, giúp bắt kịp các tướng đánh xa.
+            
 Điểm yếu lớn nhất của lối lên đồ ở trên là có 2 core item. Trong một vài game đấu, bạn sẽ cần phải có 2 món tank thần thoại để counter một vài tướng cụ thể. Ví dụ: team đối phương có Jax, Cassiopeia và Kog'maw. Sẽ là lợi thế rất lớn trong các pha combat nếu như bạn có thể lên <em>Tim băng</em> và <em>Giáp thiên nhiên</em>. Nếu như lên đồ theo build bên trên, 2 món này sẽ lần lượt đẩy xuống 3 và 4, và có thể khiến bạn thua các pha combat mid game.
 Để khắc phục vấn đề này, chúng ta có thể sử dụng 2 món đồ thần thoại khác là <em>Tam hợp kiếm</em> (tăng ms, bắt kịp các tướng đánh xa) và <em>Búa rìu sát thần</em> (chống tank, hồi máu giữa combat). Udyr sử dụng rất tốt <em>Thuỷ kiếm</em>, giúp việc clear rừng ở đồ đầu tiên nhanh hơn, và 1v1 tốt hơn.
 
