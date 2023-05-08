@@ -34,7 +34,7 @@ Dùng cho các đội hình nhiều máu, không thể burst. Aura của Tibbers
 <b>Luôn luôn</b> mua <em>Giày Pháp sư</em> !!!. Annie không quan tâm, không sử dụng hiệu quả được giày nào khác.
 
 Bel'veth
-Bel'veth có tương tác rất mạnh với <b>Hút máu</b>. Đây là yếu tố được tập trung nhiều nhất trong build của mình. 
+Bel'Veth có tương tác rất mạnh với <b>Hút máu</b>. Đây là yếu tố được tập trung nhiều nhất trong build của mình. 
 
 Lấy <em>Sẵn sàng Tấn công</em> nếu cần thêm dmg cho early game. Tuyệt đối không bao giờ lấy <em>Chinh phục</em>. Lấy ngọc này trên Bel'veth đồng nghĩa với troll.<br>
 Bel'veth cần <em>Bó tên ánh sáng</em> và <em>Huyết trượng</em> để farm hiệu quả. Mình lựa nhánh phụ Cảm hứng để giúp Bel'veth mua được các trang bị thành phần này nhanh hơn. Có thể thay <em>Thị trường Tương lai</em> bằng <em>Thấu thị Vũ trụ</em> để hồi Flash nhanh hơn. Flash là một trong những cách duy nhất giúp Bel'veth sống sót qua early game.
@@ -42,6 +42,15 @@ Bel'veth cần <em>Bó tên ánh sáng</em> và <em>Huyết trượng</em> để
 <em>Gươm Suy Vong</em> là item cung cấp nhiều dmg nhất cho Bel'veth.<br>
 Các build của Bel'veth từ lúc ra mắt cho đến nay đều đi kèm một vài món tank. Build này đơn giản là thay thế các chỉ số chống chịu từ những món tank bằng <b>Hút máu</b> và khiên. <em>Nỏ tử thủ</em> và <em>Huyết kiếm</em> cung cấp rất nhiều chỉ số quan trọng trong build này dành cho Bel'veth.<br>
 <em>Giáp tâm linh</em> tương tác rất mạnh với build này, chỉ cần đối phương có 1 AP là có thể lên được.
+
+Bel'veth support
+Bel'Veth hiện tại hoàn toàn có thể chơi ở vị trí hỗ trợ. Ở bản 13.10, Bel'Veth hỗ trợ sẽ càng mạnh hơn.
+
+Ở vị trí hỗ trợ, luôn luôn lấy <em>Sãn sàng tấn công</em> để tăng dmg cho cả bản thân và AD. Có thể đổi sang <em>Giáp cốt</em> nếu muốn chơi theo kiểu all-in.
+
+Vai trò của Bel'Veth ở vị trí hỗ trợ là sử dụng khả năng cơ động của mình để mở giao tranh bằng W, hút sát thương với E và thoát ra ngoài. Độ cơ động là sự khác biệt lớn nhất giữa Bel'Veth hỗ trợ so với Leona, Nautilus, Thresh,...<br>
+90% game lên <em>Giáp vai Nguyệt thần</em>, mua <em>Solari</em> chỉ khi có giá trị counter các tướng đối phương (Ví dụ: Karthus, Gankplank, Fiddlesticks,...).<br>
+Ưu tiên các món tốc độ chạy sau đồ thần thoại. Nếu quá xanh trong giai đoạn đi lane, có thể lên <em>Rìu đen</em> để bổ sung thêm dmg cho team.
 
 Caitlyn
 Nguồn cảm hứng chính cho build này là duoking1 (NA), một người chơi có rất nhiều kiến thức về đường dưới.
@@ -74,7 +83,7 @@ Rất tốt khi đối đầu với nhiều tướng đánh xa. Một điểm ha
 img Corki_Other<br>
 Tooltip của R ghi rất rõ rằng R scale với 15/45/75% AD (lv6/11/16), và scale với chỉ 12% AP ở mọi cấp. R của Corki gây sát thương phép, nhưng gây dmg tốt hơn khi Corki mua AD. Lý do chúng ta mua một vài món đồ AP trên Corki là vì <b>Xuyên kháng phép</b>, vì game gần như không có một món AD nào cho chỉ số này cả.<br>
 <em>Chuỳ gai Malmortius</em> và <em>Vũ điệu Tử thần</em> là 2 món đồ thủ tốt nhất cho Corki.<br>
-Trước đây, mình từng nghĩ không có lý do gì phải lên <em>Liandry</em> cho Corki, vì nếu gặp tướng nhiều máu thì có thể build Crit. Nhưng ở mùa 13, <em>Trượng trường sinh</em> cho các pháp sư quá nhiều máu, nhiều đến mức Liandry bắt đầu gây nhiều dmg hơn <em>Luden</em>. Đây là đồ thần thoại khi bạn gặp Ryze, Anivia, Cassiopeia, Orianna,... lên <em>Trượng trường sinh</em>.<br>
+Trước đây, mình từng nghĩ không có lý do gì phải lên <em>Liandry</em> cho Corki, vì nếu gặp tướng nhiều máu thì có thể build Crit. Nhưng ở mùa 13, <em>Trượng trường sinh</em> cho các pháp sư quá nhiều máu, nhiều đến mức <em>Liandry</em> bắt đầu gây nhiều dmg hơn <em>Luden</em>. Đây là đồ thần thoại khi bạn gặp Ryze, Anivia, Cassiopeia, Orianna,... lên <em>Trượng trường sinh</em>.<br>
 <b>Lưu ý: </b>khi mua Luden, thứ tự mua thành phần đúng là <em>Lam ngọc -> Bí chương thất truyền -> Gậy bùng nổ</em>. Ngay cả Faker cũng mua sai :P.
 
 <h3>Crit</h3>
@@ -95,8 +104,12 @@ Phù hợp cho các game nhiều melee/tank, tận dụng thêm các đòn đán
 Build gây nhiều dmg nhất trên Q. Dùng build này khi bạn chỉ poke trong combat. <em>Móng vuốt ám muội</em> gây nhiều dmg hơn <em>Nguyệt đao</em> trên các tướng từ ~110-120 giáp trở xuống, mặc định lên trong mọi game. Rất nhiều người nghĩ rằng làm sao Ezreal kích hoạt được <em>Móng vuốt</em>. Câu trả lời là không :), chúng ta không mua item này để kích hoạt, mà mua bởi vì nó có nhiều sát lực nhất game. Và làm ơn đừng bao giờ mua <em>Dạ kiếm Draktharr</em> trừ khi chơi ARAM.
 
 <h3>Liandry (???)</h3>
-Trong soloQ, đôi lúc team pick một đội hình full AD. Đây là tình huống đặc biệt, và cũng là duy nhất, để chúng ta sử dụng Liandry, đa dạng hoá nguồn dmg trong đội hình. Đương nhiên, các món Xuyên giáp, Sát lực như <em>Serylda</em> sẽ yếu hơn trong build này.<br>
+Trong soloQ, đôi lúc team pick một đội hình full AD. Đây là tình huống đặc biệt, và cũng là duy nhất, để chúng ta sử dụng <em>Liandry</em>, đa dạng hoá nguồn dmg trong đội hình. Đương nhiên, các món Xuyên giáp, Sát lực như <em>Serylda</em> sẽ yếu hơn trong build này.<br>
 Bởi tình huống trong game là team nhiều AD, bạn có thể lên cả <em>Rìu đen</em> để giảm giáp, giúp tăng dmg cho cả team.
+
+<h3>Tam hợp kiếm</h3>
+Sử dụng <em>Tam hợp kiếm</em> đồng nghĩa với chuyện bạn không thể mua <em>Navori</em>. Đổi lại thì chúng ta sẽ có thêm HP, chỉ số mà build <em>Navori</em> gần như không thể có cho đến ít nhất là món 5. Build này tốt khi gặp đội hình nhiều tướng lao vào. Ví dụ như Kennen, Viego, Ahri.<br>
+Có thể mua <em>Gươm Suy Vong</em> khi gặp các tướng tank lên <em>Trái Tim Khổng Thần</em>.
 
 Graves
 
@@ -204,11 +217,11 @@ PS: do chiêu cuối rất dễ né, hiện tại build này đang bị thất s
 Tiền thân của build AP. Build này khai thác 2 yếu tố chính:<br>
 - E kích hoạt <em>Liandry, Thiên thạch bí ẩn, Thiêu rụi, Phát bắn đơn giản</em><br>
 - Nhiều hồi chiêu, giúp E nhiều hơn<br>
-- Sau Liandry cần lên AD để có thể dùng chiêu cuối
+- Sau <em>Liandry</em> cần lên AD để có thể dùng chiêu cuối
 
 <h3>AP</h3>
-Bản 12.21 buff AP scale của chiêu E. Từ bản này, mình không còn dùng build Liandry ở trên nữa.<br>
-Bản 12.21 buff AP scale của chiêu E. Từ bản này, mình không còn dùng build Liandry ở trên nữa.<br>
+Bản 12.21 buff AP scale của chiêu E. Từ bản này, mình không còn dùng build <em>Liandry</em> ở trên nữa.<br>
+Bản 12.21 buff AP scale của chiêu E. Từ bản này, mình không còn dùng build <em>Liandry</em> ở trên nữa.<br>
 <em>Động cơ vũ trụ</em> nếu cần thêm slow, và <em>Trượng Hư vô</em> nếu cần dmg.<br>
 <em>Mũ trụ nguyền rủa: </em> chỉ mua khi đối phương có rất nhiều HP (Sion, Cho'gath, Zac,...).<br>
 <b>Lưu ý: </b>tác dụng chính của build AP là đa dạng hoá nguồn dmg, chỉ sử dụng khi team không có AP/khi đi hỗ trợ.
