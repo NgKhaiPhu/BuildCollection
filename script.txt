@@ -214,8 +214,10 @@ Mặc dù là build Sát lực, <em>Huyết kiếm</em> là item không thể th
 
 <h3>AP</h3>
 Bản 12.21 buff AP scale của chiêu E. Build này có thể chơi ở cả vị trí carry và hỗ trợ.<br>
+<em>Dao điện Statikk: </em>Khi chơi MF AP ở vị trí carry, rất khó để farm vào đầu game do không có AD. <em>Dao điện Statikk</em> là món đẩy lính mạnh nhất early game, giúp MF farm ổn định, trước khi bắt đầu mua AP để poke. Nội tại của <em>Dao điện</em> scale với AP, và đương nhiên sẽ kết hợp tốt với các món AP mà MF mua, giúp MF vừa đẩy lính nhanh, vừa poke mạnh bằng E, mà vẫn có một chút sát thương đánh thường và sát thương Bão đạn khi cần.<br>
+Nếu bạn lựa chọn rush <em>Dao điện</em>, nên lên 4 điểm W trước khi max E.<br>
 <em>Động cơ vũ trụ</em> nếu cần thêm slow, và <em>Trượng Hư vô</em> nếu cần dmg.<br>
-<em>Mũ trụ nguyền rủa: </em> chỉ mua khi đối phương có rất nhiều HP (Sion, Cho'gath, Zac,...).<br>
+<em>Mũ trụ nguyền rủa: </em>chỉ mua khi đối phương có rất nhiều HP (Sion, Cho'gath, Zac,...).<br>
 <b>Lưu ý: </b>tác dụng chính của build AP là đa dạng hoá nguồn dmg, chỉ sử dụng khi team không có AP/khi đi hỗ trợ.
 
 Senna
@@ -252,8 +254,8 @@ Build này lợi dụng tương tác rất lỗi giữa <em>Suối nguồn sinh 
 <em>Lư hương sôi sục</em> và <em>Trượng lưu thủy</em> được giảm giá xuống 2100g, giúp Senna đạt các ngưỡng sức mạnh rất sớm.
 
 <h3>Câu hỏi thường gặp: Tại sao lại không mua...</h3>
-<b>Sát lực? </b>Troll :). Sát lực tăng giá trị theo level, và không phải là lựa chọn dành cho vai trò có level thấp nhất trong game. SKill của Senna đều có thời gian hồi rất lâu nếu thiếu AS, nên Senna cũng không hưởng lợi quá nhiều từ việc mua Sát lực.<br>
-<b>Đại bác liên thanh? </b>Vô dụng. Nếu farm linh hồn đúng cách, Senna rất dễ dàng đạt tầm đánh 650+ vào cuối game. Dmg và on-hit luôn là những lựa chọn tốt hơn, thay cho việc tăng tầm đánh mỗi 4-5 (100 stack Tích Điện).<br>
+<b>Sát lực? </b>Troll :). Sát lực tăng giá trị theo level, và không phải là lựa chọn dành cho vai trò có level thấp nhất trong game. Q của Senna có thời gian hồi rất lâu nếu thiếu AS, nên Senna cũng không hưởng lợi quá nhiều từ việc mua Sát lực.<br>
+<b>Đại bác liên thanh? </b>Vô dụng. Nếu farm linh hồn đúng cách, Senna rất dễ dàng đạt tầm đánh 650+ vào cuối game. Dmg và on-hit luôn là những lựa chọn tốt hơn, thay cho việc tăng tầm đánh mỗi 4-5s (100 stack Tích Điện).<br>
 <b>Trái tim khổng thần? </b>Mình không còn lời nào để nói :(. Học cách người Hàn chơi game, không phải cách người Hàn build. Still <3 Keria.
 
 Zeri
