@@ -255,7 +255,7 @@ Build này lợi dụng tương tác rất lỗi giữa <em>Suối nguồn sinh 
 
 <h3>Câu hỏi thường gặp: Tại sao lại không mua...</h3>
 <b>Sát lực? </b>Troll :). Sát lực tăng giá trị theo level, và không phải là lựa chọn dành cho vai trò có level thấp nhất trong game. Q của Senna có thời gian hồi rất lâu nếu thiếu AS, nên Senna cũng không hưởng lợi quá nhiều từ việc mua Sát lực.<br>
-<b>Đại bác liên thanh? </b>Vô dụng. Nếu farm linh hồn đúng cách, Senna rất dễ dàng đạt tầm đánh 650+ vào cuối game. Dmg và on-hit luôn là những lựa chọn tốt hơn, thay cho việc tăng tầm đánh mỗi 4-5s (100 stack Tích Điện).<br>
+<b>Đại bác liên thanh? </b>Vô dụng. Nếu farm linh hồn đúng cách, Senna rất dễ dàng đạt tầm đánh 650+ vào cuối game. Dmg và on-hit luôn là những lựa chọn tốt hơn, thay cho việc tăng tầm đánh mỗi 8s (100 stack Tích Điện).<br>
 <b>Trái tim khổng thần? </b>Mình không còn lời nào để nói :(. Học cách người Hàn chơi game, không phải cách người Hàn build. Still <3 Keria.
 
 Zeri
