@@ -24,7 +24,8 @@ Mình ưu tiên <em>Ngọn đuốc thánh quang</em> do đây là món đồ đ�
 Annie
 LCK là khu vực đầu tiên chơi Annie, và tất cả khu vực khác copy build <em>Trượng Trường Sinh</em> từ đây. Mình rất ghét build này, vì nó biến Annie thành Battlemage, lối chơi không phù hợp và chưa bao giờ xuất hiện trên Annie trong các mùa trước.
 
-2 bảng tương ứng với 2 cách lên đồ được giải thích ngay bên dưới.
+2 bảng ngọc chính là <em>Thiên thạch bí ẩn</em> và <em>Sốc điện</em>, tương ứng với 2 cách lên đồ được giải thích ngay bên dưới.
+Bảng <em>Đòn phủ đầu</em> chỉ dành riêng cho Annie top.
 
 <h3>Permaburn: </h3>
 Dùng cho các đội hình nhiều máu, không thể burst. Aura của Tibbers làm chậm tất cả kẻ địch xung quanh, và Tibbers liên tục apply <em>Liandry, Thiên thạch Bí ẩn, Phát bắn đơn giản</em> trên tất cả các tướng đứng xung quanh. Tibbers gây dmg liên tục khiến <em>Thiên thạch Bí ẩn</em> hồi chiêu rất nhanh, kích hoạt càng nhiều thiên thạch hơn.
@@ -70,7 +71,60 @@ Trước đây, mình từng nghĩ không có lý do gì phải lên <em>Liandry
 <b>Lưu ý: </b>khi mua Luden, thứ tự mua thành phần đúng là <em>Lam ngọc -> Bí chương thất truyền -> Gậy bùng nổ</em>. Ngay cả Faker cũng mua sai :P.
 
 <h3>Crit</h3>
-Dmg đánh thường cao, thích hợp khi cần gây DPS lên các tướng melee, trâu bò. Khi các tướng tank có khoảng 3k HP và 150 kháng phép, build poke bắt đầu yếu đi và không còn đóng góp nhiều trong combat. Build trên hình hiện tại là combo item có DPS cao nhất cho Corki.
+Dmg đánh thường cao, thích hợp khi cần gây DPS lên các tướng melee, trâu bò. Khi các tướng tank có khoảng 3k HP và 150 kháng phép, build poke bắt đầu yếu đi và không còn đóng góp nhiều trong combat.<br>
+Từ sau 13.10, build Crit có nhiều AD hơn trước, rất thích hợp với cách Corki vận hành trong giao tranh, sử dụng kỹ năng xen lẫn đánh thường.
+
+Ezreal
+Tất cả build đều được buff trong phiên bản 13.10.
+
+Mặc định là <em>Chinh phục</em>. Nếu build tập trung nhiều vào đánh thường thì có thể đổi sang <em>Sẵn sàng tấn công</em>.<br>
+Nhiều người sử dụng nhánh phụ Áp đảo để lấy <em>Thợ săn tài tình</em>, giảm hồi chiêu <em>Thuỷ kiếm</em>. Điểm yếu của nhánh này là cần có mạng đầu game để stack. Theo mình, nhánh Pháp thuật vẫn ổn định nhất.
+        
+<h3>Poke</h3>
+Build gây nhiều dmg nhất trên Q. Dùng build này khi bạn chỉ poke trong combat.<br>
+
+<h3>Crit</h3>
+Phù hợp cho các game nhiều melee/tank, tận dụng thêm các đòn đánh thường, so le với Q.<br>
+<em>Nỏ thần Dominik</em> bây giờ cường hóa sát thương hỗn hợp. Nếu mua <em>Navori</em>, Ezreal không cần hồi chiêu từ <em>Serylda</em> và có thể thay thế bằng <em>Nỏ thần</em>.
+
+<h3>Liandry</h3>
+Trong soloQ, đôi lúc team pick một đội hình full AD. Đây là tình huống đặc biệt, và cũng là duy nhất, để chúng ta sử dụng emLiandry</em>, đa dạng hoá nguồn dmg trong đội hình. Đương nhiên, các món Xuyên giáp, Sát lực như <em>Serylda</em> sẽ yếu hơn trong build này.
+<br>Bởi tình huống trong game là team nhiều AD, bạn có thể lên cả <em>Rìu đen</em> để giảm giáp, giúp tăng dmg cho cả team.
+
+<h3>Tam hợp kiếm</h3>
+Đây là build duy nhất mà Ezreal có thể mua HP sớm, tốt khi gặp các đội hình lao vào. Ví dụ như Kennen, Viego, Ahri.
+
+Gnar
+Một trong những tướng blind top tốt nhất soloQ. Tuy nhiên, hiện có nhiều người chỉ biết tới 1 build dành cho Gnar.
+
+Mặc định là Bước chân thần tốc. Yếu tố quan trọng nhất trong lối chơi của Gnar là spacing, và đây là ngọc tốt nhất cho yếu tố này.
+Nhánh phụ của Gnar không quá cứng nhắc. Nếu chưa chơi quen, có thể lấy nhánh màu đỏ, nhánh mạnh nhất khi đi lane.
+
+<em>Tam hợp kiếm</em> là item thần thoại nhiều dmg nhất dành cho Gnar. Lượng tốc độ chạy từ món đồ này khiến Gnar thả diều tốt hơn, và cực kì khó chịu ở 2 đường cánh. Ngoài ra, Mega Gnar là vị tướng có AD cơ bản cao nhất game, nên đương nhiên có thể sử dụng tốt item này.<br>
+<em>Rìu đen</em> hiện tại là một trong các item huyền thoại mạnh nhất dành cho đấu sĩ. Trong các lane mà Mini Gnar mạnh hơn Mega Gnar (Irelia, Garen, Olaf,...), có thể xem xét rush <em>Rìu đen</em> và Giày Ionia.
+Điểm chung của những tướng này là không thể thả diều và luôn luôn thắng một khi chúng all-in, việc hồi chiêu nhanh hơn giúp bạn né được các pha all-in này, tiếp tục lối chơi poke.<br>
+Nếu như team bạn có quá ít sát thương vật lý, có thể cân nhắc lên các món khác.<br><br>
+Nếu như bạn mắc sai lầm trong lane và thua nặng, đừng mua <em>Tam hợp</em> vì bạn không thể đẩy lẻ được nữa, do không thể solo thắng ở đường cánh.<br>
+<em>Rìu mãng xà</em> là trang bị mạnh nhất khi Gnar thua lane, cung cấp hút máu, AD miễn phí và hồi chiêu, giúp Gnar trụ đường tốt.<br>
+Khi thua, tốt nhất là nên mua trang bị tank để hỗ trợ cho team, và không món nào khác làm điều này tốt hơn <em>Giáp vai nguyệt thần</em>.<br>
+<em>Giày cuồng nộ</em> bù cho lượng AS mất đi từ <em>Tam hợp</em>.
+
+Graves
+Có quá nhiều lối build mới được mở ra trong bản này, nên mình sẽ chỉ nói về 2 build mạnh mà mình đã thấy ở thời điểm hiện tại.
+
+<em>Bước chân thần tốc</em> là ngọc then chốt ổn định nhất cho cả Graves đi lane và đi rừng. Nếu bạn chơi Graves sát lực, có thể thay thế bằng <em>Sốc điện</em> hoặc <em>Đòn phủ đầu</em>.
+Do game hiện tại đặt nặng việc kiểm soát mục tiêu, mình đánh giá rất cao <em>Thuỷ thượng phiêu</em>, không chỉ cho Graves mà hầu như tất cả các tướng đi rừng. 
+Với các build không phải Sát lực, có thể cân nhắc nhánh Kiên định để lấy chống chịu miễn phí. 
+
+Do cơ chế reload, Graves không nên lên quá nhiều AS. Các bạn có thể thấy mình không đề xuất <em>Giày cuồng nộ</em> trong build nào cả. Nếu như cả <em>Tabi</em> và <em>Giày thuỷ ngân</em> đều không phù hợp, có thể giữ Giày 1 và ưu tiên lên đồ lớn.
+<br>Mọi người sẽ thấy sự vắng mặt của một trong những món đồ phổ biến nhất trên Graves, <em>Kiếm Âm u</em>. Theo mình, item này ngoài tương tác khá mạnh với <em>Mắt thây ma</em> thì không có nhiều tác dụng lắm. Chỉ số của <em>Kiếm âm u</em> quá yếu, và tất cả các build của Graves đều cần khoảng 2 item để bắt đầu mạnh. Nếu như đã quen mua <em>Kiếm âm u</em> thì các bạn có thể mua, nhưng mình cực kỳ không khuyến khích.
+        
+<h3>Sát lực</h3>
+13.10 buff 2 item rất quan trọng cho Graves sát lực là đồ thần thoại và <em>Súng hải tặc</em>. Với <em>Youumu</em> mới, Graves không cần phải lên giày mà vẫn di chuyển rất nhanh trong rừng, và combo burst của Graves gây cực kỳ nhiều dmg.
+
+<h3>Đấu sĩ</h3>
+Mọi người biết nhiều đến build này thông qua <em>Chùy hấp huyết</em>. Ở bản 13.10, Graves còn có thể sử dụng <em>Tam hợp kiếm</em>, dmg cao hơn và tăng nhiều tốc độ chạy, chỉ số rất quan trọng cho Graves. Graves cũng có chỉ số AD cơ bản rất ấn tượng.<br>
+Theo quan điểm cá nhân của mình, Graves cần lên <em>Phong thần kiếm</em> (jg)/<em>Dao điện Statikk</em> (lane) và <em>Rìu đen</em> trước đồ thần thoại. <em>Bó tên ánh sáng</em> giúp Graves dọn lính và rừng rất nhanh, và Graves có thể full stack <em>Rìu đen</em> bằng chỉ một đòn đánh crit.
 
 Hecarim
 
@@ -81,6 +135,74 @@ Mình nghĩ không cần giải thích quá nhiều về <em>Rìu đen</em>. Hec
 - Chuỳ hấp huyết: counter sát thủ<br>
 - Chuỳ phản kích: giữ chân các tướng carry cơ động thấp (Ashe, Jinx, Aphelios,...)<br>
 - Búa rìu sát thần: cần thêm dmg giết tank
+<em>Búa tiến công</em> hiện tại đang rất mạnh. Có thể cân nhắc lên nếu bạn cảm thấy mình cần đẩy lẻ để solo farm và gánh đội. TUYỆT ĐỐI KHÔNG ĐƯỢC MUA nếu đang yếu hơn so với đối phương.
+
+Lucian
+Hiện tại mình chưa rõ số phận của Lucian ở bản 13.12 sẽ như thế nào. Nhưng ở bản 13.11, Lucian + Milio/Nami là một trong những combo mạnh nhất đường dưới.
+
+<em>Sẵn sàng tấn công</em> là bảng phù hợp với lối chơi của Lucian, cho nhiều DPS nhất.
+Chỉ dùng <em>Đòn phủ đầu</em> khi đi với Milio.
+
+Đây là build phù hợp nhất ở thời điểm hiện tại dành cho Lucian (khi đi chung với Nami và Milio). Một vài người thích mua <em>Phong thần kiếm</em> do cảm giác di chuyển mượt hơn, nhưng <em>Móc diệt thủy quái</em> luôn gây nhiều dmg hơn nếu có thể bắn được nhát thứ 3.
+
+Cách lên đồ này cho nhiều DPS hơn, phù hợp hơn khi gặp các đội hình không quá ít máu. <em>Lưỡi hái linh hồn</em> và <em>Sẵn sàng tấn công</em> rất phù hợp cho build này. Nhiều AD truyền thống có thể sẽ quay trở lại trong phiên bản tới. Mà AD truyền thống thì đều là tướng ít máu, nên nhìn chung build này vẫn sẽ ít phổ biến hơn.
+
+MF
+Điểm mạnh lớn nhất của MF là có đa dạng build, có thể là nhiều nhất trong tất cả ADC, và một vài biến thể có thể được chơi ở vị trí hỗ trợ.
+
+<em>Sẵn sàng tấn công</em> là lựa chọn tốt nhất cho Crit MF. MF thông thường không cần đến 6 AA để hạ các carry đối phương.
+Bảng ngọc chính cho build Sát lực, tập trung vào poke và chiêu cuối.
+Bảng ngọc dành cho MF AP.
+Có một con tướng miễn nhiễm với poke ở đường dưới, đó là Jhin (<em>Bước chân thần tốc</em>, Giày + 4 bình máu, MS cao,...). Đặc biệt trong lane này, chuyển sang <em>Đòn phủ đầu</em> và chơi full scaling (tập trung hoàn toàn cho mid/late game).
+
+<h3>Tam hợp kiếm</h3>
+Về lý thuyết, <em>Tam hợp</em> không có tương tác gì đặc biệt với MF cả. Nhưng hiện tại, món này cung cấp quá nhiều chỉ số, và ngưỡng 1 đồ rất quan trọng cho các tướng đè lane như MF. Phần còn lại của build lên như bình thường, tập trung vào crit.
+
+<h3>Crit</h3>
+- <em>Dao điện Statikk</em>: đẩy nhanh tốc độ đẩy lính cho MF, giúp MF đè lane tốt hơn
+- <em>Móc diệt thủy quái</em>: dành cho những game cần thêm DPS (gặp nhiều tank)
+Khi có đủ AS, <em>Navori</em> có thể cho MF Q mỗi 1.5s. Item này out DPS <em>Vô cực kiếm</em>.
+
+<h3>Sát lực</h3>
+<em>Kiếm ma Youmuu</em> cung cấp quá nhiều MS, cho phép ta bỏ qua cả Giày và tiết kiệm ~1k vàng cho đồ lớn.<br>
+<em>Rìu đen</em> stack trên từng phát đạn của chiêu cuối.<br>
+Mặc dù là build Sát lực, <em>Huyết kiếm</em> là item không thể thiếu, do cung cấp quá nhiều AD và hút máu.
+
+<h3>AP</h3>
+Bản 12.21 buff AP scale của chiêu E. Build này có thể chơi ở cả vị trí carry và hỗ trợ.<br>
+<em>Dao điện Statikk: </em>Khi chơi MF AP ở vị trí carry, rất khó để farm vào đầu game do không có AD. <em>Dao điện Statikk</em> là món đẩy lính mạnh nhất early game, giúp MF farm ổn định, trước khi bắt đầu mua AP để poke. Nội tại của <em>Dao điện</em> scale với AP, và đương nhiên sẽ kết hợp tốt với các món AP mà MF mua, giúp MF vừa đẩy lính nhanh, vừa poke mạnh bằng E, mà vẫn có một chút sát thương đánh thường và sát thương Bão đạn khi cần.<br>
+Nếu bạn lựa chọn rush <em>Dao điện</em>, nên lên 4 điểm W trước khi max E.<br>
+<em>Động cơ vũ trụ</em> nếu cần thêm slow, và <em>Trượng Hư vô</em> nếu cần dmg.<br>
+<em>Mũ trụ nguyền rủa: </em>chỉ mua khi đối phương có rất nhiều HP (Sion, Cho'gath, Zac,...).<br>
+<b>Lưu ý: </b>tác dụng chính của build AP là đa dạng hoá nguồn dmg, chỉ sử dụng khi team không có AP/khi đi hỗ trợ.
+
+Senna
+Một trong những bài viết lạ nhất cho cả trang web này.
+
+<em>Bước chân thần tốc</em> là lựa chọn ổn định nhất, phù hợp với cách trade của Senna trong lúc đi lane và cách giữ vị trí, gây dmg trong phần còn lại. Với những người mới chơi Senna thì nên lấy ngọc này 100% game.<br>
+2 ngọc then chốt còn lại (không phải <em>Chinh phục</em>) phát huy tác dụng trong một vài trường hợp rất nhất định.<br>
+Senna scale quá tốt với AD (do nội tại), lấy nhánh Pháp thuật để có nhiều AD miễn phí nhất.  
+
+<em>Giày thép gai: </em> Từ khoảng 2 năm trở lại, tất cả Senna mặc định lên <em>Giày bạc</em>. 
+Lý do lớn nhất mà mọi người có thể nghĩ ra là chạy nhanh để "giữ vị trí, né chiêu". 
+Không có AD nào không cần giữ vị trí, tại sao không có AD nào khác lên <em>Giày bạc</em>? 
+Thay vì lên thêm 15 MS và tin vào khả năng phản xạ của bản thân, thì một cách tư duy tốt hơn là lên thẳng giáp, để ngay cả khi trúng chiêu vẫn không nhận nhiều dmg. 
+Mình rush giày 2 trong tất cả game Senna, vì các pha trade đầu game với Senna hầu như chỉ dừng lại ở farm linh hồn, nên mình muốn MS và chống chịu để lui về an toàn nhất. 
+Đối với một vài game nhất định, Senna sẽ cần lên <em>Giày thuỷ ngân</em>.
+
+<h3>Fasting</h3>
+2 món carry tốt nhất cho Senna là <em>Móc diệt thuỷ quái</em> và <em>Guinsoo</em>. Cố gắng có <em>Huyết kiếm</em> trong build hoàn thiện, do lượng AD quá lớn mà item này mang lại.
+
+<h3>Support Senna</h3>
+<em>Solari: </em>giải thích tương đối dài dòng. Tất cả mọi người đều biết thừa rằng điểm yếu lớn nhất của Senna là quá mỏng, cực kỳ dễ chết khi bị engage. Hơn nữa, do thường được đánh ở vị trí hỗ trợ (cho 1 AD khác), cả 2 đều trở thành miếng mồi cho đối phương. Chỉ cần thua một chút, và để AD đối phương có lợi thế, Senna và AD của mình sẽ thành mục tiêu dive liên tục.
+Hầu như các tướng lao vào đều không thể vượt qua lớp khiên của Solari. Thời gian hồi 90s ngắn hơn đa số chiêu cuối của các tướng ở giai đoạn 1 đồ. Cộng thêm 200 HP, 30 giáp và 30 kháng phép, Senna trở nên rất khó bị hạ gục, nhưng vẫn gây sát thương tốt nhờ lượng sát thương cơ bản rất cao ở chiêu Q và nội tại. Một điểm nữa cần lưu ý là Solari khá giống với các lựa chọn <em>Bước chân thần tốc</em> cũng như <em>Giày thép gai</em>, đều giảm thiểu thiệt hại và rủi ro khi Senna bước lên trade trong lane để farm linh hồn.<br>
+<em>Guinsoo: </em>Giả sử như đối phương không có tướng lao vào, hoặc bạn đang có quá nhiều lợi thế và thực sự không cần đến Solari, thì có thể lựa chọn item này để gây nhiều DPS nhất trong combat. Swap sang <em>Vô cực kiếm</em> ở món 6.<br>
+<em>Gươm Suy Vong: </em>Do không được farm giống như các AD khác, Senna cần lên những món đồ mạnh nhất 1 cách độc lập. <em>Gươm Suy Vong</em> không chỉ gây dmg ổn định, mà còn cung cấp hút máu, tương tác rất tốt với Solari.<br>
+
+<h3>Câu hỏi thường gặp: Tại sao lại không mua...</h3>
+<b>Sát lực? </b>Troll :). Sát lực tăng giá trị theo level, và không phải là lựa chọn dành cho vai trò có level thấp nhất trong game. Q của Senna có thời gian hồi rất lâu nếu thiếu AS, nên Senna cũng không hưởng lợi quá nhiều từ việc mua Sát lực.<br>
+<b>Đại bác liên thanh? </b>Vô dụng. Nếu farm linh hồn đúng cách, Senna rất dễ dàng đạt tầm đánh 650+ vào cuối game. Dmg và on-hit luôn là những lựa chọn tốt hơn, thay cho việc tăng tầm đánh mỗi 8s (100 stack Tích Điện).<br>
+<b>Trái tim khổng thần? </b>Mình không còn lời nào để nói :(. Học cách người Hàn chơi game, không phải cách người Hàn build. Still <3 Keria.
 
 Udyr
 Udyr có 2 lối chơi chính là max R (Phượng hoàng) và max Q (Gấu). Bài này sẽ cố gắng phân tích cả 2 lối chơi, nhiều ý tưởng đến từ streamer Aribo (EUW).
@@ -104,163 +226,6 @@ Nên mua <em>Phong ấn hắc ám</em> để có cơ hội nâng cấp thành <e
 <em>Chuỳ phản kích: </em>giữ chân các tướng đánh xa<br>
 <em>Búa rìu sát thần: </em>out dmg 2 món trên nếu như đối phương mua nhiều HP. <br>
 Udyr cần thêm một món huyền thoại có AD để có đủ dmg. Lựa chọn số 1 với mình ở phiên bản hiện tại là <em>Rìu đen</em>.<br>
-<em>Rìu mãng xà: </em>phù hợp cho Udyr top với hút máu, nhiều AD, clear lính, giúp 1v1 và đẩy lẻ tốt hơn.
-
-
-
-
-Theorycrafting 13.10
-Như mọi người đã biết, phiên bản 13.10 làm lại rất nhiều item cho nhiều lớp tướng khác nhau. Bên dưới đây là các build mình nghĩ ra/tổng hợp lại. Các build này rất mạnh, nhưng mình chưa có thời gian "điều tra" nên không dám ghi chung với phần bên trên.
-
-Một vài quan sát về 13.10 (21/5/2023):
-SoloQ
-- Rework đồ ADC là nerf. Những tướng không bị ảnh hưởng là những tướng mạnh nhất đường dưới: Ezreal và Karthus
-- Combo Lucian + Milio vẫn OP. Lucian Nami cũng ok
-- Talon và Rengar là trùm SoloQ. 2 vị tướng này trước đây rất phụ thuộc vào Youmuu để tiếp cận. Bây giờ, Youmuu trở thành đồ thần thoại, giúp cả 2 có thêm 1 ô đồ. Vấn đề là Talon và Rengar, nhưng rất tiếc là trên các trang mxh, mọi người lại cho rằng vấn đề là do Youmuu. Nếu Riot chiều ý dư luận và nerf Youmuu, sẽ ảnh hưởng đến những sát thủ khác vốn đang cân bằng
-- Graves cũng trở thành một trong những vị tướng mạnh nhất game, nhưng build của Graves đa dạng và bản thân Graves cũng khó chơi hơn
-- Bùa nguyệt thạch quá yếu so với mình tưởng tượng. Sona và Soraka bị ảnh hưởng lớn nhất
-- Tam hợp kiếm + Búa tiên công rất mạnh
-
-Pro
-- Milio 100% ban/pick nếu không bị Riot đả động trước khi Summer Split bắt đầu. Các tướng phối hợp tốt với Milio cũng được ưu tiên cao (Jinx, Kog'maw, Lucian,...)
-- Graves cũng rất mạnh, nhưng có xuất hiện hay không thì còn phụ thuộc vào việc các team có khám phá ra được trong 1 tuần hay không
-- Thay đổi về tốc độ của wave ảnh hưởng rất lớn tới việc set up dive
-- Mid sẽ bị thống trị bởi pháp sư, do combo Lam ngọc + Thị trường tương lai
-- Kalista được buff rất mạnh vào 13.11, không rõ sẽ ảnh hưởng pro play như thế nào
-
-Ezreal
-ADC mạnh nhất game. Tất cả build đều được buff.
-
-Mặc định là <em>Chinh phục</em>. Nếu build tập trung nhiều vào đánh thường thì có thể đổi sang <em>Sẵn sàng tấn công</em>.<br>
-Nhiều người sử dụng nhánh phụ Áp đảo để lấy <em>Thợ săn tài tình</em>, giảm hồi chiêu <em>Thuỷ kiếm</em>. Điểm yếu của nhánh này là cần có mạng đầu game để stack. Theo mình, nhánh Pháp thuật vẫn ổn định nhất.
-        
-<h3>Poke</h3>
-Build gây nhiều dmg nhất trên Q. Dùng build này khi bạn chỉ poke trong combat.<br>
-<em>Youmuu</em> là món cho nhiều sát lực và AD nhất game. Tình hình có thể thay đổi trong bản kế tiếp (13.11).
-
-<h3>Crit</h3>
-Phù hợp cho các game nhiều melee/tank, tận dụng thêm các đòn đánh thường, so le với Q.<br>
-Nỏ thần Dominik bây giờ cường hóa sát thương hỗn hợp. Nếu mua Navori, Ezreal không cần hồi chiêu từ Serylda và có thể thay thế bằng Nỏ thần.
-
-<h3>Liandry</h3>
-Trong soloQ, đôi lúc team pick một đội hình full AD. Đây là tình huống đặc biệt, và cũng là duy nhất, để chúng ta sử dụng Liandry, đa dạng hoá nguồn dmg trong đội hình. Đương nhiên, các món Xuyên giáp, Sát lực như <em>Serylda</em> sẽ yếu hơn trong build này.
-<br>Bởi tình huống trong game là team nhiều AD, bạn có thể lên cả <em>Rìu đen</em> để giảm giáp, giúp tăng dmg cho cả team.
-
-<h3>Tam hợp kiếm</h3>
-Đây là build duy nhất mà Ezreal có thể mua HP sớm, tốt khi gặp các đội hình lao vào. Ví dụ như Kennen, Viego, Ahri.
-
-Gnar
-Một trong những tướng blind top tốt nhất soloQ. Tuy nhiên, hiện có nhiều người chỉ biết tới 1 build dành cho Gnar.
-
-Mặc định là Bước chân thần tốc. Yếu tố quan trọng nhất trong lối chơi của Gnar là spacing, và đây là ngọc tốt nhất cho yếu tố này.
-Nhánh phụ của Gnar không quá cứng nhắc. Nếu chưa chơi quen, có thể lấy nhánh màu đỏ, nhánh mạnh nhất khi đi lane.
-
-<em>Tam hợp kiếm</em> là item thần thoại nhiều dmg nhất dành cho Gnar. Lượng tốc độ chạy từ món đồ này khiến Gnar thả diều tốt hơn, và cực kì khó chịu ở 2 đường cánh. Ngoài ra, Mega Gnar là vị tướng có AD cơ bản cao nhất game, nên đương nhiên có thể sử dụng tốt item này.<br>
-<em>Rìu đen</em> hiện tại là một trong các item huyền thoại mạnh nhất dành cho đấu sĩ. Trong các lane mà Mini Gnar mạnh hơn Mega Gnar (Irelia, Garen, Olaf,...), có thể xem xét rush <em>Rìu đen</em> và Giày Ionia.
-Điểm chung của những tướng này là không thể thả diều và luôn luôn thắng một khi chúng all-in, việc hồi chiêu nhanh hơn giúp bạn né được các pha all-in này, tiếp tục lối chơi poke.<br>
-Nếu như team bạn có quá ít sát thương vật lý, có thể cân nhắc lên các món khác.<br><br>
-Nếu như bạn mắc sai lầm trong lane và thua nặng, đừng mua <em>Tam hợp</em> vì bạn không thể đẩy lẻ được nữa, do không thể solo thắng ở đường cánh.<br>
-<em>Rìu mãng xà</em> là trang bị mạnh nhất khi Gnar thua lane, cung cấp hút máu, AD miễn phí và hồi chiêu, giúp Gnar trụ đường tốt.<br>
-Khi thua, tốt nhất là nên mua trang bị tank để hỗ trợ cho team, và không món nào khác làm điều này tốt hơn <em>Giáp vai nguyệt thần</em>.<br>
-<em>Giày cuồng nộ</em> bù cho lượng AS mất đi từ <em>Tam hợp</em>.
-
-Graves
-Một trong những tướng mạnh nhất game ở thời điểm hiện tại, do tất cả build đều được buff, trừ Negan nhiều khả năng đã bị xóa sổ :( <br>
-Có quá nhiều lối build mới được mở ra trong bản này, nên mình sẽ chỉ nói về 2 build mạnh mà mình đã thấy ở thời điểm hiện tại.
-
-<em>Bước chân thần tốc</em> là ngọc then chốt ổn định nhất cho cả Graves đi lane và đi rừng. Nếu bạn chơi Graves sát lực, có thể thay thế bằng <em>Sốc điện</em> hoặc <em>Đòn phủ đầu</em>.
-Do game hiện tại đặt nặng việc kiểm soát mục tiêu, mình đánh giá rất cao <em>Thuỷ thượng phiêu</em>, không chỉ cho Graves mà hầu như tất cả các tướng đi rừng. 
-Với các build không phải Sát lực, có thể cân nhắc nhánh Kiên định để lấy chống chịu miễn phí. 
-
-Do cơ chế reload, Graves không nên lên quá nhiều AS. Các bạn có thể thấy mình không đề xuất <em>Giày cuồng nộ</em> trong build nào cả. Nếu như cả <em>Tabi</em> và <em>Giày thuỷ ngân</em> đều không phù hợp, có thể giữ Giày 1 và ưu tiên lên đồ lớn.
-<br>Mọi người sẽ thấy sự vắng mặt của một trong những món đồ phổ biến nhất trên Graves, <em>Kiếm Âm u</em>. Theo mình, item này ngoài tương tác khá mạnh với <em>Mắt thây ma</em> thì không có nhiều tác dụng lắm. Chỉ số của <em>Kiếm âm u</em> quá yếu, và tất cả các build của Graves đều cần khoảng 2 item để bắt đầu mạnh. Nếu như đã quen mua <em>Kiếm âm u</em> thì các bạn có thể mua, nhưng mình cực kỳ không khuyến khích.
-        
-<h3>Sát lực</h3>
-13.10 buff 2 item rất quan trọng cho Graves sát lực là đồ thần thoại và <em>Súng hải tặc</em>. Với <em>Youumu</em> mới, Graves không cần phải lên giày mà vẫn di chuyển rất nhanh trong rừng, và combo burst của Graves gây cực kỳ nhiều dmg.
-
-<h3>Đấu sĩ</h3>
-Mọi người biết nhiều đến build này thông qua <em>Chùy hấp huyết</em>. Ở bản 13.10, Graves còn có thể sử dụng <em>Tam hợp kiếm</em>, dmg cao hơn và tăng nhiều tốc độ chạy, chỉ số rất quan trọng cho Graves. Graves cũng có chỉ số AD cơ bản rất ấn tượng.<br>
-Theo quan điểm cá nhân của mình, Graves cần lên <em>Phong thần kiếm</em> (jg)/<em>Dao điện Statikk</em> (lane) và <em>Rìu đen</em> trước đồ thần thoại. <em>Bó tên ánh sáng</em> giúp Graves dọn lính và rừng rất nhanh, và Graves có thể full stack <em>Rìu đen</em> bằng chỉ một đòn đánh crit.
-
-Jhin
-Vị tướng hưởng lợi rất lớn từ xu hướng giảm AS, thêm AD trong các món đồ mới.
-
-<h3>Gặp tướng yếu máu</h3>
-<em>Phong thần kiếm</em> quá phù hợp với lối chơi của Jhin, giúp đánh thường poke, thả diều, hỗ trợ đẩy lính, cung cấp nhiều AD. 
-Đổi sang <em>Dao điện Statikk</em> trong các lane cần đẩy lính nhanh.<br>
-<em>Cung phong linh</em> và <em>Súng hải tặc</em> được buff rất mạnh trong bản 13.10, giúp combo với nhát 4 có khả năng kết liễu rất mạnh và bất ngờ.<br>
-<em>Huyết kiếm</em> vừa cung cấp hút máu, vừa cho nhiều AD nhất game. Lại một item được làm lại theo hướng vô cùng phù hợp cho Jhin.
-
-<h3>Gặp tướng nhiều máu</h3>
-Combo <em>Vô cực kiếm</em> và <em>Huyết kiếm</em> cung cấp quá nhiều AD ở món 3. Bổ sung thêm <em>Nỏ thần Dominik</em> nếu cần xuyên giáp.<br>
-Nhìn chung, Jhin là một trong các tướng AD yếu nhất khi đối đầu với tank. Cố gắng tránh những trường hợp này =)))
-
-MF
-Điểm mạnh lớn nhất của MF là có đa dạng build, có thể là nhiều nhất trong tất cả ADC, và một vài biến thể có thể được chơi ở vị trí hỗ trợ.
-
-<em>Sẵn sàng tấn công</em> là lựa chọn tốt nhất cho Crit MF. MF thông thường không cần đến 6 AA để hạ các carry đối phương.
-Bảng ngọc chính cho build Sát lực, tập trung vào poke và chiêu cuối.
-Bảng ngọc dành cho MF AP.
-Có một con tướng miễn nhiễm với poke ở đường dưới, đó là Jhin (<em>Bước chân thần tốc</em>, Giày + 4 bình máu, MS cao,...). Đặc biệt trong lane này, chuyển sang <em>Đòn phủ đầu</em> và chơi full scaling (tập trung hoàn toàn cho mid/late game).
-
-<h3>Crit</h3>
-<em>Dao điện Statikk</em> đẩy nhanh tốc độ đẩy lính cho MF, giúp MF đè lane tốt hơn. Cho những game cần thêm dmg (gặp nhiều tank), có thể đổi sang <em>Móc diệt thủy quái</em>.<br>
-Khi có đủ AS, <em>Navori</em> có thể cho MF Q mỗi 1.5s. Item này out DPS <em>Vô cực kiếm</em>.
-
-<h3>Sát lực</h3>
-<em>Kiếm ma Youmuu</em> cung cấp quá nhiều MS, cho phép ta bỏ qua cả Giày và tiết kiệm ~1k vàng cho đồ lớn.<br>
-<em>Rìu đen</em> stack trên từng phát đạn của chiêu cuối.<br>
-Mặc dù là build Sát lực, <em>Huyết kiếm</em> là item không thể thiếu, do cung cấp quá nhiều AD và hút máu.
-
-<h3>AP</h3>
-Bản 12.21 buff AP scale của chiêu E. Build này có thể chơi ở cả vị trí carry và hỗ trợ.<br>
-<em>Dao điện Statikk: </em>Khi chơi MF AP ở vị trí carry, rất khó để farm vào đầu game do không có AD. <em>Dao điện Statikk</em> là món đẩy lính mạnh nhất early game, giúp MF farm ổn định, trước khi bắt đầu mua AP để poke. Nội tại của <em>Dao điện</em> scale với AP, và đương nhiên sẽ kết hợp tốt với các món AP mà MF mua, giúp MF vừa đẩy lính nhanh, vừa poke mạnh bằng E, mà vẫn có một chút sát thương đánh thường và sát thương Bão đạn khi cần.<br>
-Nếu bạn lựa chọn rush <em>Dao điện</em>, nên lên 4 điểm W trước khi max E.<br>
-<em>Động cơ vũ trụ</em> nếu cần thêm slow, và <em>Trượng Hư vô</em> nếu cần dmg.<br>
-<em>Mũ trụ nguyền rủa: </em>chỉ mua khi đối phương có rất nhiều HP (Sion, Cho'gath, Zac,...).<br>
-<b>Lưu ý: </b>tác dụng chính của build AP là đa dạng hoá nguồn dmg, chỉ sử dụng khi team không có AP/khi đi hỗ trợ.
-
-Senna
-Một trong những bài viết lạ nhất cho cả trang web này.
-
-<em>Bước chân thần tốc</em> là lựa chọn ổn định nhất, phù hợp với cách trade của Senna trong lúc đi lane và cách giữ vị trí, gây dmg trong phần còn lại. Với những người mới chơi Senna thì nên lấy ngọc này 100% game.<br>
-2 ngọc then chốt còn lại (không phải <em>Chinh phục</em>) phát huy tác dụng trong một vài trường hợp rất nhất định.<br>
-Senna scale quá tốt với AD (do nội tại), lấy nhánh Pháp thuật để có nhiều AD miễn phí nhất.  
-
-Nhánh phụ Kiên định dành riêng cho build enchanter, sẽ nói đến ở phần sau.
-
-<em>Giày thép gai: </em> Từ khoảng 2 năm trở lại, tất cả Senna mặc định lên <em>Giày bạc</em>. 
-Lý do lớn nhất mà mọi người có thể nghĩ ra là chạy nhanh để "giữ vị trí, né chiêu". 
-Không có AD nào không cần giữ vị trí, tại sao không có AD nào khác lên <em>Giày bạc</em>? 
-Thay vì lên thêm 15 MS và tin vào khả năng phản xạ của bản thân, thì một cách tư duy tốt hơn là lên thẳng giáp, để ngay cả khi trúng chiêu vẫn không nhận nhiều dmg. 
-Mình rush giày 2 trong tất cả game Senna, vì các pha trade đầu game với Senna hầu như chỉ dừng lại ở farm linh hồn, nên mình muốn MS và chống chịu để lui về an toàn nhất. 
-Đối với một vài game nhất định, Senna sẽ cần lên <em>Giày thuỷ ngân</em>.
-
-<h3>Fasting</h3>
-2 món carry tốt nhất cho Senna là <em>Móc diệt thuỷ quái</em> và <em>Guinsoo</em>. Cố gắng có <em>Huyết kiếm</em> trong build hoàn thiện, do lượng AD quá lớn mà item này mang lại.
-
-<h3>Support Senna</h3>
-<em>Solari: </em>giải thích tương đối dài dòng. Tất cả mọi người đều biết thừa rằng điểm yếu lớn nhất của Senna là quá mỏng, cực kỳ dễ chết khi bị engage. Hơn nữa, do thường được đánh ở vị trí hỗ trợ (cho 1 AD khác), cả 2 đều trở thành miếng mồi cho đối phương. Chỉ cần thua một chút, và để AD đối phương có lợi thế, Senna và AD của mình sẽ thành mục tiêu dive liên tục.
-Hầu như các tướng lao vào đều không thể vượt qua lớp khiên của Solari. Thời gian hồi 90s ngắn hơn đa số chiêu cuối của các tướng ở giai đoạn 1 đồ. Cộng thêm 200 HP, 30 giáp và 30 kháng phép, Senna trở nên rất khó bị hạ gục, nhưng vẫn gây sát thương tốt nhờ lượng sát thương cơ bản rất cao ở chiêu Q và nội tại. Một điểm nữa cần lưu ý là Solari khá giống với các lựa chọn <em>Bước chân thần tốc</em> cũng như <em>Giày thép gai</em>, đều giảm thiểu thiệt hại và rủi ro khi Senna bước lên trade trong lane để farm linh hồn.<br>
-<em>Guinsoo: </em>Giả sử như đối phương không có tướng lao vào, hoặc bạn đang có quá nhiều lợi thế và thực sự không cần đến Solari, thì có thể lựa chọn item này để gây nhiều DPS nhất trong combat. Swap sang <em>Vô cực kiếm</em> ở món 6.<br>
-<em>Gươm Suy Vong: </em>Do không được farm giống như các AD khác, Senna cần lên những món đồ mạnh nhất 1 cách độc lập. <em>Gươm Suy Vong</em> không chỉ gây dmg ổn định, mà còn cung cấp hút máu, tương tác rất tốt với Solari.<br>
-
-<h3>Enchanter</h3>
-Build này lợi dụng tương tác rất lỗi giữa <em>Suối nguồn sinh mệnh</em> và <em>Vọng âm Helia</em>. <br>
-- Q của Senna kích hoạt <em>Suối nguồn sinh mệnh</em> trên mục tiêu
-- AD đánh thường mục tiêu
-- <em>Suối nguồn sinh mệnh</em> hồi máu AD và kích hoạt <em>Helia</em>
-- Cả Senna và AD liên tục đánh thường mục tiêu, và liên tục kích hoạt <em>Helia</em>
-<em>Lư hương sôi sục</em> và <em>Trượng lưu thủy</em> được giảm giá xuống 2100g, giúp Senna đạt các ngưỡng sức mạnh rất sớm.
-
-<h3>Câu hỏi thường gặp: Tại sao lại không mua...</h3>
-<b>Sát lực? </b>Troll :). Sát lực tăng giá trị theo level, và không phải là lựa chọn dành cho vai trò có level thấp nhất trong game. Q của Senna có thời gian hồi rất lâu nếu thiếu AS, nên Senna cũng không hưởng lợi quá nhiều từ việc mua Sát lực.<br>
-<b>Đại bác liên thanh? </b>Vô dụng. Nếu farm linh hồn đúng cách, Senna rất dễ dàng đạt tầm đánh 650+ vào cuối game. Dmg và on-hit luôn là những lựa chọn tốt hơn, thay cho việc tăng tầm đánh mỗi 8s (100 stack Tích Điện).<br>
-<b>Trái tim khổng thần? </b>Mình không còn lời nào để nói :(. Học cách người Hàn chơi game, không phải cách người Hàn build. Still <3 Keria.
-
-Zeri
-Build đấu sĩ Zeri (hồi mói ra mắt) đã quay trở lại để thay thế cho <em>Nỏ tử thử</em>
-
-Nhánh phụ Kiên định tăng khả năng chống chịu cho Zeri.
-
-Quan trọng nhất trong build là <em>Tam hợp kiếm</em>, cho Zeri nội tại Thủy kiếm, AS và HP. Các món còn lại mua tùy theo thế trận, nhưng nên có một món hút máu trong build cuối cùng.
+<em>Rìu mãng xà: </em>phù hợp cho Udyr top với hút máu, nhiều AD, clear lính, giúp 1v1 và đẩy lẻ tốt hơn.<br>
+<em>Búa tiến công</em> hiện tại đang rất mạnh. Có thể cân nhắc lên, ngay cả khi đi rừng nếu bạn cảm thấy mình cần đẩy lẻ để solo farm và gánh đội. TUYỆT ĐỐI KHÔNG ĐƯỢC MUA nếu đang yếu hơn so với đối phương.<br>
+Không mua <em>Tam hợp kiếm</em> cho build Gấu, vì <em>Tam hợp kiếm</em> sẽ không tăng dmg cho chiêu Q.
