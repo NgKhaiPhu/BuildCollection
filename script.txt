@@ -137,6 +137,18 @@ Mình nghĩ không cần giải thích quá nhiều về <em>Rìu đen</em>. Hec
 - Búa rìu sát thần: cần thêm dmg giết tank
 <em>Búa tiến công</em> hiện tại đang rất mạnh. Có thể cân nhắc lên nếu bạn cảm thấy mình cần đẩy lẻ để solo farm và gánh đội. TUYỆT ĐỐI KHÔNG ĐƯỢC MUA nếu đang yếu hơn so với đối phương.
 
+Ivern
+Với tình hình hiện tại, Ivern gần như chắc chắn xuất hiện trong các giải chuyên nghiệp, do hiện tại đã nằm ở tier S+ trong SoloQ.
+
+<em>Triệu hồi Aery</em> là bảng ngọc phù hợp nhất với lối chơi của Ivern. <em>Hộ vệ</em> cũng tương đối hợp lý, nhưng nhánh Phép thuật với Ivern mạnh hơn nhánh Kiên định. Bảng phụ Áp đảo với <em>Mắt thây ma</em> và <em>Thợ săn tàn nhẫn</em> giúp Ivern chơi chủ động hơn trong SoloQ, còn bảng Kiên định hoặc Cảm hứng sẽ phù hợp hơn cho môi trường chuyên nghiệp.
+
+Với cơ chế dọn rừng của Ivern, chỉ có một chỉ số duy nhất ảnh hưởng đến tốc độ dọn rừng: MS (tốc độ di chuyển). Vì lẽ đó, Ivern ưu tiên mua <em>Giày Cơ Động</em>, và thông thường sẽ rush món này cùng với <em>Phong ấn hắc ám</em>.<br>
+Về đồ thần thoại, có 3 lựa chọn chính:<br>
+- <em>Solari:</em> Chống lao vào. Lớp giáp của Solari rất dày, nhưng sẽ giảm dần trong 2.5s, vì vậy nên chỉ phù hợp khi gặp các tướng burst, ví dụ như sát thủ, hoặc các tướng có chiêu cuối diện rộng như Karthus, Malphite, Yasuo,...<br>
+- <em>Vương miện Shurelya:</em> tốt trong tình huống team cần thêm MS. <em>Shurelya</em> không cung cấp bất kỳ một chỉ số tấn công hay phòng thủ nào, nên phải CÂN NHẮC KỸ LƯỠNG trước khi lên món này<br>
+- <em>Vọng âm Helia:</em> mua khi 2 team có tầm hoạt động ngang nhau. Để tận dụng tốt món này, bạn sẽ cần phải thành thạo kỹ năng điều khiển Daisy. Khi không có Daisy, món này không đóng góp gì trong giao tranh.<br>
+Các món còn lại lên đúng trường hợp cần lên, nên mình sẽ không giải thích gì thêm vì phần này cũng giống với các tướng hỗ trợ khác. Nếu có hứng, mình sẽ viết 1 bài để phân tích xem khi nào thì lên món gì. Riêng với <em>Mejai</em>, có thể lên ngay khi thấy mình có một vài stack <em>Phong ấn hắc ám</em>, và đối phương không thể chạm đến mình trong giao tranh.
+
 Lucian
 Hiện tại mình chưa rõ số phận của Lucian ở bản 13.12 sẽ như thế nào. Nhưng ở bản 13.11, Lucian + Milio/Nami là một trong những combo mạnh nhất đường dưới.
 
