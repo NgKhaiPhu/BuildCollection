@@ -26,11 +26,12 @@ Ví dụ, nếu Wukong team mình cần phải với tới Syndra đối phươn
 <em>Hãy dùng não và tư duy trong từng game.</em>
 
 Vọng âm Helia
-Ở phiên bản 13.10, đây là một trong những món thần thoại mạnh nhất game. Tuy nhiên, <em>Helia</em> chịu một đợt nerf ở phiên bản 13.11.<br>
+Ở phiên bản 13.10, đây là một trong những món thần thoại mạnh nhất game. Tuy nhiên, <em>Helia</em> chịu 1 đợt nerf ở phiên bản 13.11.<br>
 
 Thoạt nhìn thì có vẻ cũng không phải là nerf lớn lắm đúng không. Đây là do cách viết của Riot chỉ thể hiện chỉ số đầu và cuối. Cách tốt nhất để nhìn thấy rõ ảnh hưởng của thay đổi này là so sánh sát thương và heal theo từng level.<br>
 
 Hình trên có lẽ đã thể hiện rõ nét thay đổi này hơn. Thay đổi chỉ thực sự bớt ảnh hưởng hơn từ khoảng cấp 15, nhưng hỗ trợ thì không được ưu tiên lên cấp.<br>
+13.12 tiếp tục nerf <em>Helia</em> khi đã xóa bỏ tương tác giữa item này và <em>Suối nguồn sinh mẹnh</em>.<br>
 Nói như thế không có nghĩa là không bao giờ mua <em>Vọng âm Helia</em>. Tuy nhiên, bạn cần phải thực sự chắc chắn rằng mình có thể tấn công đối phương, dù bằng kỹ năng hay đòn đánh thường, để kích hoạt được nội tại của item này.
 
 Giáp vai Nguyệt thần
@@ -42,6 +43,9 @@ Nếu xét về chỉ số, <em>Giáp vai Nguyệt thần</em> chỉ có ít hơ
 Dây chuyền Iron Solari
 Lớp khiên rất dày, nhưng giảm dần trong 2.5s. Item này counter các tướng burst trong khoảng thời gian ngắn như sát thủ, hoặc là các tướng có chiêu diện rộng như Karthus, Malphite, Gangplank. 
 Điều đáng nói nhất về món này là việc chỉ có những người chơi hỗ trợ tank mới lựa chọn. Hiện tại, không một người nào chơi enchanter nào lên món này cả. Về mặt chỉ số, bạn chỉ hy sinh khoảng 40AP để có 30 giáp và 30 kháng phép. <em>Shurelya</em> trên Lulu không có tác dụng nếu bạn chết sau 2 chiêu của Leblanc, hoặc 2s trong chiêu cuối của Kennen. Enchanter là lớp tướng chống chịu kém nhất trong game, thậm chí còn kém hơn trong môi trường chuyên nghiệp do thường thua solo lane khoảng 4-5 cấp độ. <em>Solari</em> không chỉ giúp bạn khó chết hơn, mà còn gây yếu tố bất ngờ cho các tướng lao vào team địch nhờ lớp khiên kích hoạt. Luôn luôn suy nghĩ đến <em>Solari</em> nếu đối phương phụ thuộc vào burst trong combat, hoặc có nhiều chiêu AoE.
+
+Ngọn đuốc thánh quang
+Đắt hơn 400g so với 2 món thần thoại còn lại. Tuy nhiên, không cung cấp thêm bao nhiêu chỉ số, và nội tại cũng kém hấp dẫn hơn. Không bao giờ mua.
 
 Legendary items / Đồ huyền thoại
 
@@ -85,4 +89,3 @@ Có những trường hợp khá tốt để lên món này, nhưng cực kỳ h
 
 Đá tỏa sáng
 Không bao giờ mua.
-
