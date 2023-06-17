@@ -68,7 +68,7 @@ Phù hợp cho các tướng poke hơn là enchanter. Ví dụ: Lux, Zyra, Vel'k
 Dây chuyền chuộc tội
 Hồi rất nhiều máu, thích hợp khi đội hình bạn hoặc đội hình địch tầm đánh ngắn, do các tướng thường cụm lại 1 chỗ.
 
-Lời thề hiệp ước
+Lời thề hiệp sĩ
 Vừa bảo hộ cho đồng đội, vừa tăng thêm chống chịu cho bản thân bằng HP và giáp. Với những ưu điểm này, thật khó hiểu khi gần như không bao giờ thấy ai lên item này cả.
 Nhiều người biết lên item này dành cho AD carry. Thứ ít người biết là bạn còn có thể bấm cho các tướng đấu sĩ như Udyr, Hecarim, Camille,... Những tướng này hưởng lợi rất nhiều từ chống chịu miễn phí, và lượng sát thương của chúng đủ cao để hồi phục rất nhiều máu cho bạn.
 
@@ -84,8 +84,46 @@ Không còn lỗi như hồi nửa đầu mùa 12. Món này mạnh khi team đ�
 Giáp gai
 Nếu cần vết thương sâu, hãy dừng lại ở <em>Áo choàng gai</em>. Không bao giờ nâng cấp lên <em>Giáp gai</em> trừ khi đối phương có quá nhiều tướng phụ thuộc vào đánh thường. Và nếu ngay cả khi tình huống như vậy diễn ra, bạn vẫn nên lên <em>Tim băng</em>.
 
-Zeke
+Tụ bão Zeke
 Có những trường hợp khá tốt để lên món này, nhưng cực kỳ hiếm. Mình thường hình dung item này như <em>Lư hương</em> dành cho các tướng tank. Mua khi cần thêm dmg.
 
 Đá tỏa sáng
 Không bao giờ mua.
+
+Ví dụ 
+
+Mình sẽ lấy 1 vài ví dụ từ các trận đấu thực tế và nêu ra quan điểm của mình về build thích hợp nhất dành cho vị trí hỗ trợ trong các tình huống cụ thể này. Lưu ý: mình đề xuất dựa trên bản <b>13.12</b>.<br>
+
+Có thể thấy rất rõ rằng team xanh (bên trái) sẽ dựa vào nguồn dmg từ Annie và carry chính Aphelios để kết liễu 1 mục tiêu thật nhanh, giúp cho Viego có reset và đạt lợi thế lớn trong combat (cả 5 tướng bên team đỏ đều là xác rất đẹp cho Viego). Ở chiều ngược lại, team đỏ chỉ có 1 cách chơi duy nhất: "LAO VÀO". Không cần biết là bắt lẻ hay là giao tranh lớn, team đỏ luôn luôn là bên mở combat trước, và cố gắng hạ gục mục tiêu nào trúng khống chế.
+<br><br>
+<h1>Lulu: </h1>Mục tiêu duy nhất của Lulu trong game này là bảo vệ Aphelios khỏi 4 mũi lao vào của team đỏ.<br>
+<b>Bảng ngọc: </b>Hộ vệ/Suối nguồn sinh mệnh/Kiểm soát điều kiện/Tiếp sức + Mắt thây ma/Thợ săn tài tình<br>
+<b>Trang bị: </b>Solari -> Lời thề hiệp sĩ -> Mikael. Giày hồi chiêu<br>
+Nếu ở trong môi trường chuyên nghiệp (ví dụ như giải đấu LPL), có thể rush Mikael do AD bạn ở trình độ rất cao. Nhưng ở trong soloQ, không nên quá tin tưởng vào AD mình. Có thể gắn Lời thề hiệp sĩ cho Viego nếu Viego bỗng trở nên quá xanh.
+<br><br>
+<h1>Rakan: </h1>Nhiệm vụ của Rakan là tìm góc mở giao tranh và hy vọng team mình đủ dmg để hạ gục mục tiêu mà mình chọn.<br>
+<b>Bảng ngọc: </b>Nâng cấp băng giá/Bước chân màu nhiệm/Thị trường tương lai/Thấu thị vũ trụ + Mắt thây ma/Thợ săn tàn nhẫn hoặc Suối nguồn sinh mệnh/Ngọn gió thứ hai<br>
+<b>Trang bị: </b>Shurelya -> Zeke -> Lư hương. Giày thủy ngân<br>
+
+Nhân vật quan trọng nhất trong game này ở đội hình team xanh là Xayah, một trong những AD mạnh nhất khi đối đầu đội hình lao vào. Team xanh có tương đối nhiều dmg, nhưng sẽ không thể cản nổi team đỏ nếu không có Xayah.
+<br><br>
+<h1>Yuumi: </h1>chủ yếu sẽ bám vào Xayah trong cả game này.<br>
+<b>Bảng ngọc: </b>Aery/Dải băng năng lượng/Thăng tiến sức mạnh/Cuồng phong tích tụ + Suối nguồn sinh mệnh/Tiếp sức<br>
+<b>Trang bị: </b>Lư hương sôi sục -> Lời thề hiệp sĩ -> Trát lệnh đế vương -> Dây chuyền chuộc tội.<br>
+Hả ??? Lời thề hiệp sĩ ??? Khi đối phương có quá nhiều burst, lượng sát thương giảm từ item này sẽ nhiều hơn lượng lá chắn từ các món cho enchanter. Xayah sẽ có nhiều khả năng sử dụng được R->E hơn trước khi chết.
+<br><br>
+<h1>Rakan: </h1>Không có gì nhiều để nói, mở giao tranh và dẫn dắt cả team lao vào.<br>
+<b>Bảng ngọc: </b>Hộ vệ/Suối nguồn sinh mệnh/Kiểm soát điều kiện/Tiếp sức + Mắt thây ma/Thợ săn tàn nhẫn hoặc Thợ săn tài tình<br>
+<b>Trang bị: </b>Shurelya -> Lư hương -> Đồng hồ cát Zhonya. Giày hồi chiêu<br>
+
+Đội hình team xanh sẽ là đội hình lao vào trong game này. Nếu team xanh không lao vào đủ mạnh và để Jinx có reset sớm thì giao tranh luôn luôn kết thúc có lợi cho team đỏ.
+<br><br>
+<h1>Nautilus: </h1>mục tiêu số 1 của Nautilus là Jinx, mặc dù mình cũng không rõ Nautilus sẽ tiếp cận Jinx bằng cách nào :P<br>
+<h1>Bảng ngọc: </h1>Dư chấn/Suối nguồn sinh mệnh/Ngọn gió thứ hai/Kiên cường + Đắc thắng/Huyền thoại: Kháng hiệu ứng<br>
+<h1>Trang bị: </h1>Giáp vai nguyệt thần -> Tim băng -> Mặt nạ vực thẳm. Giày giáp
+<br><br>
+<h1>Braum: </h1><br>
+<h1>Bảng ngọc: </h1>Hộ vệ/Suối nguồn sinh mệnh/Giáp cốt hoặc Kiểm soát điều kiện/Kiên cường + Đắc thắng/Huyền thoại: Kháng hiệu ứng<br>
+<h1>Trang bị: </h1>Solari -> Lời thề hiệp sĩ -> Dây chuyền chuộc tội. Giày thủy ngân<br>
+
+

@@ -34,6 +34,11 @@ img{
     margin: auto;
     display: block;
 }
+img.Example{
+    min-width: 40%;
+    margin: auto;
+    display: block;
+}
 .gotop{
     position: fixed;
     width: 50px;
