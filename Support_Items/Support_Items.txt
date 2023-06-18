@@ -102,7 +102,7 @@ Có thể thấy rất rõ rằng team xanh (bên trái) sẽ dựa vào nguồn
 Nếu ở trong môi trường chuyên nghiệp (ví dụ như giải đấu LPL), có thể rush Mikael do AD bạn ở trình độ rất cao. Nhưng ở trong soloQ, không nên quá tin tưởng vào AD mình. Có thể gắn Lời thề hiệp sĩ cho Viego nếu Viego bỗng trở nên quá xanh.
 <br><br>
 <h1>Rakan: </h1>Nhiệm vụ của Rakan là tìm góc mở giao tranh và hy vọng team mình đủ dmg để hạ gục mục tiêu mà mình chọn.<br>
-<b>Bảng ngọc: </b>Nâng cấp băng giá/Bước chân màu nhiệm/Thị trường tương lai/Thấu thị vũ trụ + Mắt thây ma/Thợ săn tàn nhẫn hoặc Suối nguồn sinh mệnh/Ngọn gió thứ hai<br>
+<b>Bảng ngọc: </b>Nâng cấp băng giá/Bước chân màu nhiệm/Thị trường tương lai/Thấu thị vũ trụ + Mắt thây ma/Thợ săn tối thượng hoặc Suối nguồn sinh mệnh/Ngọn gió thứ hai<br>
 <b>Trang bị: </b>Shurelya -> Zeke -> Lư hương. Giày thủy ngân<br>
 
 Nhân vật quan trọng nhất trong game này ở đội hình team xanh là Xayah, một trong những AD mạnh nhất khi đối đầu đội hình lao vào. Team xanh có tương đối nhiều dmg, nhưng sẽ không thể cản nổi team đỏ nếu không có Xayah.
@@ -113,7 +113,7 @@ Nhân vật quan trọng nhất trong game này ở đội hình team xanh là X
 Hả ??? Lời thề hiệp sĩ ??? Khi đối phương có quá nhiều burst, lượng sát thương giảm từ item này sẽ nhiều hơn lượng lá chắn từ các món cho enchanter. Xayah sẽ có nhiều khả năng sử dụng được R->E hơn trước khi chết.
 <br><br>
 <h1>Rakan: </h1>Không có gì nhiều để nói, mở giao tranh và dẫn dắt cả team lao vào.<br>
-<b>Bảng ngọc: </b>Hộ vệ/Suối nguồn sinh mệnh/Kiểm soát điều kiện/Tiếp sức + Mắt thây ma/Thợ săn tàn nhẫn hoặc Thợ săn tài tình<br>
+<b>Bảng ngọc: </b>Hộ vệ/Suối nguồn sinh mệnh/Kiểm soát điều kiện/Tiếp sức + Mắt thây ma/Thợ săn tối thượng<br>
 <b>Trang bị: </b>Shurelya -> Lư hương -> Đồng hồ cát Zhonya. Giày hồi chiêu<br>
 
 Đội hình team xanh sẽ là đội hình lao vào trong game này. Nếu team xanh không lao vào đủ mạnh và để Jinx có reset sớm thì giao tranh luôn luôn kết thúc có lợi cho team đỏ.
